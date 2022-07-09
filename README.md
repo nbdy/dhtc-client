@@ -1,6 +1,7 @@
 # dhtc-client
 
-[dhtc](https://github.com/nbdy/dhtc) crawler part as a http client
+[dhtc](https://github.com/nbdy/dhtc) crawler part as a http client<br>
+use [dhtc-server](https://github.com/nbdy/dhtc-server) with this
 
 ## usage
 
